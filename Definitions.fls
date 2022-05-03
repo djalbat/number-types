@@ -1,0 +1,6 @@
+Type Number
+
+Type RealNumber:Number
+Type RationalNumber:RealNumber
+Type Integer:RationalNumber
+Type NaturalNumber:Integer
