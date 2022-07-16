@@ -1,0 +1,14 @@
+
+
+             type  ::=  "Number"
+
+                     |  "RealNumber"
+
+                     |  "RationalNumber"
+
+                     |  "Integer"
+
+                     |  "NaturalNumber"
+
+                     ;
+
